@@ -1,0 +1,26 @@
+{
+    "I-LOC": [
+        "County",
+        "States",
+        ", New York",
+        ", California",
+        "York",
+        "Province"
+    ],
+    "I-ORG": [
+        "University",
+        "Records",
+        "College",
+        "( disambiguation )",
+        "City",
+        "High School"
+    ],
+    "I-PER": [
+        "I",
+        "Williams",
+        "II",
+        "Smith",
+        "Johnson",
+        "Lewis"
+    ]
+}

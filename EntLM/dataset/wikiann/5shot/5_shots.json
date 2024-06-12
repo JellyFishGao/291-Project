@@ -1,0 +1,17 @@
+[
+{"text": ["Yao", ",", "Osaka"], "label": ["B-LOC", "I-LOC", "I-LOC"]},
+{"text": ["He", "died", "in", "1970", "in", "Miami", "Beach", ",", "Florida", "."], "label": ["O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC", "O"]},
+{"text": ["In", "1988", "he", "was", "the", "inaugural", "curator", "of", "the", "Liverpool", "Bicentennial", "Museum", "."], "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "O"]},
+{"text": ["The", "damage", "necessitated", "a", "return", "to", "Pearl", "Harbor", "for", "repairs", "."], "label": ["O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O"]},
+{"text": ["Abydos", ",", "Egypt"], "label": ["B-LOC", "I-LOC", "I-LOC"]},
+{"text": ["Life", "...", "But", "How", "To", "Live", "It", "?"], "label": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG"]},
+{"text": ["The", "Phone", "Co-op"], "label": ["B-ORG", "I-ORG", "I-ORG"]},
+{"text": ["LSG", "Sky", "Chefs"], "label": ["B-ORG", "I-ORG", "I-ORG"]},
+{"text": ["In", "1995", "she", "began", "to", "teach", "at", "the", "Royal", "Ballet", "School", "."], "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O"]},
+{"text": ["Tata", "Motors", "–", "Lucknow"], "label": ["B-ORG", "I-ORG", "O", "B-LOC"]},
+{"text": ["She", "was", "the", "model", "for", "quite", "a", "few", "of", "Edvard", "Munch", "'s", "paintings", "."], "label": ["O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O"]},
+{"text": ["Graham", "Fitkin", "(", "born", "1963", ")"], "label": ["B-PER", "I-PER", "O", "O", "O", "O"]},
+{"text": [")", "have", "been", "conjectured", "as", "``", "Tiberius", "''", "."], "label": ["O", "O", "O", "O", "O", "O", "B-PER", "O", "O"]},
+{"text": [":", "Joe", "Pantalone", "-", "3,251"], "label": ["O", "B-PER", "I-PER", "O", "O"]},
+{"text": ["Prominent", "students", "included", "William", "James", "Mayo", "and", "Charles", "Horace", "Mayo", "."], "label": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O"]}
+]
